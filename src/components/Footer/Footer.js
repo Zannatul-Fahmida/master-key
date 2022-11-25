@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div
       style={{ backgroundColor: "#404040", color: "#ffffff" }}
-      className="d-flex justify-content-between p-5 align-items-center"
+      className="d-flex flex-column flex-md-row justify-content-md-between p-5 align-items-center"
     >
       <div>
         <h3>

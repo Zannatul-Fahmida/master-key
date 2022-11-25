@@ -4,7 +4,7 @@ import items from "../../data/fakeApi.json";
 import Deal from "../Deal/Deal";
 
 const Deals = () => {
-  let dealItems = items.slice(0, 6);
+  const dealItems = items.slice(0, 6);
   return (
     <div>
       <div

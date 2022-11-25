@@ -33,14 +33,20 @@ const Navigationbar = () => {
       </Navbar>
       <div className="d-flex justify-content-between text-secondary">
         <p>Fresh</p>
-        <p>Fresh</p>
-        <p>Fresh</p>
-        <p>Fresh</p>
-        <p>Fresh</p>
-        <p>Fresh</p>
-        <p>Fresh</p>
-        <p>Fresh</p>
-        <p>Fresh</p>
+        <p>Today's Deals</p>
+        <p>Mobiles</p>
+        <p>Gift Cards</p>
+        <p>Women Clothing</p>
+        <p>Men Clothing</p>
+        <p>Kids Clothing</p>
+        <p>Health</p>
+        <p>Pet Corner</p>
+        <p>Books</p>
+        <p>Beauty</p>
+        <p>Kitchen</p>
+        <p>Bed Room</p>
+        <p>Sport</p>
+        <p>Bags</p>
       </div>
     </Container>
   );
